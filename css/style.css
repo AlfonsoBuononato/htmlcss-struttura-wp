@@ -25,16 +25,11 @@ body{
 
 .container.titolo{
     height: 80px;
+    margin-bottom: 20px;
     background-color: rgb(252, 101, 201);
 }
 
 /* MAIN */
-
-.nav-bar{
-    height: 100px;
-    margin-top: 20px;
-    background-color: rgb(248, 232, 7);
-}
 
 .section-img{
     height: 300px;
